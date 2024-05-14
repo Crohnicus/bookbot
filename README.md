@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first git project!
+BookBot is the first Boot.Dev assignment
